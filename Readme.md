@@ -144,5 +144,9 @@ python3 demo_inference.py
 - **Video Processed with Data Fusion Input**  
   [Watch Video](video_processed/inference_rgbd.mp4)
 
+## License
+
+This project is licensed under the [MIT License](./LICENSE)
+
 
  
